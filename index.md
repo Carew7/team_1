@@ -8,8 +8,8 @@
 <table>
 
 <tr>
-  <th>Fecha</th>
   <th>Jugador</th>
+  <th>Fecha</th>
 </tr>
 
 <tr>
