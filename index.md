@@ -14,6 +14,7 @@
 
 <tr>
   <td>Player1</td>
+  <td><input type="date"></td>
 </tr>
 
 <tr>
