@@ -1,17 +1,18 @@
-<!DOCTYPE html>
+<html>
 <head>
   
-    <link rel="" type="text/html" href="otro.html">
+    <link href="otro.html">
     <meta charset="utf-8">
+</head>
 
-  </head>
-  <body>
+<body>
 
+<b>Esteeee</b>
+jkbkjb
 
 
 </body>
 
 </html>
 
-<b>Esteeee</b>
-jkbkjb
+
