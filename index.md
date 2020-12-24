@@ -30,7 +30,7 @@
 </tr>
 
   <tr>
-    <th>Jugador6</th>
+    <td>Player6</td>
   </tr>
 
   <tr>
