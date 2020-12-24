@@ -3,18 +3,19 @@
 
 </head>
   <body>
-  
+
+<p><b>Insertar número de partido</b></p>
+
+<input type="text">
 
 <table>
 
 <tr>
   <th>Jugador</th>
-  <th>Fecha</th>
 </tr>
 
 <tr>
   <td>Player1</td>
-  <td>Insertar fecha<input type="text"></td>
 </tr>
 
 <tr>
