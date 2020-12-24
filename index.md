@@ -1,18 +1,47 @@
 <html>
 <head>
-  
-    <link href="otro.html">
-    <meta charset="utf-8">
+
 </head>
+  <body>
+<table>
 
-<body>
+<tr>
+  <th>Jugador</th>
+</tr>
 
-<b>Esteeee</b>
-jkbkjb
+<tr>
+  <td>Player1</td>
+</tr>
+
+<tr>
+  <td>Player2</td>
+</tr>
+
+<tr>
+  <td>Player3</td>
+</tr>
+
+<tr>
+  <td>Player4</td>
+</tr>
+
+<tr>
+  <td>Player5</td>
+</tr>
+
+  <tr>
+    <th>Jugador6</th>
+  </tr>
+
+  <tr>
+    <td>Player7</td>
+  </tr>
 
 
-</body>
+</table>
 
+  </body>
 </html>
+
 
 
