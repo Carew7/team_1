@@ -14,7 +14,7 @@
 
 <tr>
   <td>Player1</td>
-  <td>Insertar fecha<input type="date"></td>
+  <td>Insertar fecha<input type="text"></td>
 </tr>
 
 <tr>
