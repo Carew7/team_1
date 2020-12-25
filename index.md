@@ -17,32 +17,39 @@
 </tr>
 
 <tr>
-  <td>Player1</td>
+  <td>Jugador campo 1</td>
+  <td>Jugador banquillo 1</td>
 </tr>
 
 <tr>
-  <td>Player2</td>
+ <td>Jugador campo 2</td>
+ <td>Jugador banquillo 2</td>
 </tr>
 
 <tr>
-  <td>Player3</td>
+ <td>Jugador campo 3</td>
+ <td>Jugador banquillo 3</td>
 </tr>
 
 <tr>
-  <td>Player4</td>
+ <td>Jugador campo 4</td>
+ <td>Jugador banquillo 4</td>
 </tr>
 
 <tr>
-  <td>Player5</td>
+ <td>Jugador campo 5</td>
+ <td>Jugador banquillo 5</td>
 </tr>
 
-  <tr>
-    <td>Player6</td>
-  </tr>
+<tr>
+ <td>Jugador campo 6</td>
+ <td>Jugador banquillo 6</td>
+</tr>
 
-  <tr>
-    <td>Player7</td>
-  </tr>
+<tr>
+ <td>Jugador campo 7</td>
+ <td>Jugador banquillo 7</td>
+</tr>
 
 
 </table>
