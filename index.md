@@ -11,7 +11,9 @@
 <table>
 
 <tr>
-  <th>Jugador</th>
+  <th>Jugador de campo</th>
+  <th>Jugador banquillo</th>
+
 </tr>
 
 <tr>
