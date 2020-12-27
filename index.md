@@ -24,6 +24,8 @@
   
   if(jugador1_partidos>jugador2_partidos){
     "<td>"+jugador2_partidos+"</td>"; 
+  } else{
+    "<td>"+jugador1_partidos+"</td>"; 
   }
   </script>
   <td>Jugador banquillo 1</td>
