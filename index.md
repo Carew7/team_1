@@ -7,12 +7,6 @@
 <script>
 
 
-  var jugador1 = prompt ("Inserta jugador 1","jugador1");
-  var jugador1_partidos = prompt("Cuántas veces ha jugado?");
-  
-  var jugador2 = prompt ("Inserta jugador 2","jugador2");
-  var jugador2_partidos = prompt("Cuántas veces ha jugado?");
-  
   
 
 
@@ -21,17 +15,25 @@
 <table>
 
 <tr>
-  <script>
-  if(jugador1_partidos>jugador2_partidos){
-    "<td>"+jugador2_partidos+"</td>"; 
-  }
-  </script>
 
+  <th>Jugador campo</th>
   <th>Jugador banquillo</th>
 
 </tr>
 
 <tr>
+    <script>
+
+  var jugador1 = prompt ("Inserta jugador 1","jugador1");
+  var jugador1_partidos = prompt("Cuántas veces ha jugado?");
+  
+  var jugador2 = prompt ("Inserta jugador 2","jugador2");
+  var jugador2_partidos = prompt("Cuántas veces ha jugado?");
+  
+  if(jugador1_partidos>jugador2_partidos){
+    "<td>"+jugador2_partidos+"</td>"; 
+  }
+  </script>
   <td>Jugador campo 1</td>
   <td>Jugador banquillo 1</td>
 </tr>
