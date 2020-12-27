@@ -3,10 +3,17 @@
 
 </head>
   <body>
+<script>
 
-<p><b>Insertar número de partido</b></p>
+for (var i = 0; i < 12; i++) {
+var jugador = prompt ("Inserta jugador","jugador");
+}
 
-<input type="text">
+</script>
+
+for (var i = 0; i < 12; i++) {
+var jugador = prompt ("Inserta jugador","jugador");
+}
 
 <table>
 
