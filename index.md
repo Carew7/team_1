@@ -8,10 +8,10 @@
 
 
   var jugador1 = prompt ("Inserta jugador 1","jugador1");
-  var jugador1_partidos = ("Cuántas veces ha jugado?");
+  var jugador1_partidos = prompt("Cuántas veces ha jugado?");
   
   var jugador2 = prompt ("Inserta jugador 2","jugador2");
-  var jugador2_partidos = ("Cuántas veces ha jugado?");
+  var jugador2_partidos = promt("Cuántas veces ha jugado?");
   
   
 
