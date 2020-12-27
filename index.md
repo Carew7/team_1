@@ -6,16 +6,14 @@
 <body>
 
 <table id="equipo">
-
-<tr>
+  
+    <script>
+"<tr>
 
   <th>Jugador campo</th>
   <th>Jugador banquillo</th>
 
-</tr>
-
-<tr>
-    <script>
+</tr>"
 
   var jugador1 = prompt ("Inserta jugador 1","jugador1");
   var jugador1_partidos = prompt("Cuántas veces ha jugado?");
