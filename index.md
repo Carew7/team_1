@@ -11,10 +11,6 @@ var jugador = prompt ("Inserta jugador","jugador");
 
 </script>
 
-for (var i = 0; i < 12; i++) {
-var jugador = prompt ("Inserta jugador","jugador");
-}
-
 <table>
 
 <tr>
