@@ -3,18 +3,27 @@
 
 </head>
   <body>
+  
 <script>
 
-for (var i = 0; i < 12; i++) {
-var jugador = prompt ("Inserta jugador","jugador");
-}
+
+  var jugador1 = prompt ("Inserta jugador 1","jugador1");
+  var jugador1_partidos = ("Cuántas veces ha jugado?");
+  
+  var jugador2 = prompt ("Inserta jugador 2","jugador2");
+  var jugador2_partidos = ("Cuántas veces ha jugado?");
+  
+  
+
 
 </script>
 
 <table>
 
 <tr>
-  <th>Jugador de campo</th>
+  if(jugador1_partidos>jugador2_partidos){
+  <th>document.getElementById("demo").innerHTML = jugador1; </th>
+  }
   <th>Jugador banquillo</th>
 
 </tr>
@@ -58,7 +67,8 @@ var jugador = prompt ("Inserta jugador","jugador");
 </table>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOE_9bEOm09uCWQ1869mcVtVKttCmfhV9adduXEB2GXcGXpkUUioH9YP53r_o71KQ8PsJasVpGpPXw/pubhtml?widget=true&amp;headers=false"></iframe>
-  </body>
+ 
+ </body>
 </html>
 
 
