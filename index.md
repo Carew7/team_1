@@ -21,9 +21,12 @@
 <table>
 
 <tr>
+  <script>
   if(jugador1_partidos>jugador2_partidos){
-  <th>document.getElementById("demo").innerHTML = jugador2; </th>
+    "<td>"+jugador2_partidos+"</td>"; 
   }
+  </script>
+
   <th>Jugador banquillo</th>
 
 </tr>
