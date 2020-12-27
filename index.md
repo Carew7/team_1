@@ -2,9 +2,10 @@
 <head>
 
 </head>
-  <body>
 
-<table>
+<body>
+
+<table id"equipo">
 
 <tr>
 
@@ -23,9 +24,9 @@
   var jugador2_partidos = prompt("Cuántas veces ha jugado?");
   
   if(jugador1_partidos>jugador2_partidos){
-    "<td>"+jugador2_partidos+"</td>"; 
+      document.getElementById("equipo").innerHTML ="<td>"+jugador2_partidos+"</td>"; 
   } else{
-    "<td>"+jugador1_partidos+"</td>"; 
+      document.getElementById("equipo").innerHTML ="<td>"+jugador1_partidos+"</td>"; 
   }
   </script>
   <td>Jugador banquillo 1</td>
