@@ -3,14 +3,6 @@
 
 </head>
   <body>
-  
-<script>
-
-
-  
-
-
-</script>
 
 <table>
 
@@ -34,7 +26,6 @@
     "<td>"+jugador2_partidos+"</td>"; 
   }
   </script>
-  <td>Jugador campo 1</td>
   <td>Jugador banquillo 1</td>
 </tr>
 
