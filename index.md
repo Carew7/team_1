@@ -24,9 +24,9 @@
   var jugador2_partidos = prompt("Cuántas veces ha jugado?");
   
   if(jugador1_partidos>jugador2_partidos){
-      document.getElementById("equipo").innerHTML ="<td>"+jugador2_partidos+"</td>"; 
+      document.getElementById("equipo").innerHTML ="<td>"+jugador2+"</td>"; 
   } else{
-      document.getElementById("equipo").innerHTML ="<td>"+jugador1_partidos+"</td>"; 
+      document.getElementById("equipo").innerHTML ="<td>"+jugador1+"</td>"; 
   }
   </script>
   <td>Jugador banquillo 1</td>
