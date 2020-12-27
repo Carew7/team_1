@@ -11,7 +11,7 @@
   var jugador1_partidos = prompt("Cuántas veces ha jugado?");
   
   var jugador2 = prompt ("Inserta jugador 2","jugador2");
-  var jugador2_partidos = promt("Cuántas veces ha jugado?");
+  var jugador2_partidos = prompt("Cuántas veces ha jugado?");
   
   
 
@@ -22,7 +22,7 @@
 
 <tr>
   if(jugador1_partidos>jugador2_partidos){
-  <th>document.getElementById("demo").innerHTML = jugador1; </th>
+  <th>document.getElementById("demo").innerHTML = jugador2; </th>
   }
   <th>Jugador banquillo</th>
 
