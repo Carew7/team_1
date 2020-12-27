@@ -5,7 +5,7 @@
 
 <body>
 
-<table id"equipo">
+<table id="equipo">
 
 <tr>
 
