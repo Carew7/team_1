@@ -7,12 +7,15 @@
 
 <table id="equipo">
 
-  
-    <script>
+   
+<script>
+
+var jugadores = [jugador1,jugador2,jugador3,jugador4,jugador5,jugador7,jugador7];
+var jugadores_partidos = [jugador_partidos1,jugadorpartidos2,jugadorpartidos3,jugadorpartidos4,jugadorpartidos5,jugadorpartidos7,jugadorpartidos7];
 
 for (var i = 1; i < 8; i++) {
-var jugador [i][= prompt ("Inserta jugador"[i],"jugador"[i]);
-var jugador[i]_partidos = prompt("Cuántas veces ha jugado?");
+var jugadores[i][= prompt ("Inserta jugador"+i,"jugador"+i);
+var jugadores_partidos[i] = prompt("Cuántas veces ha jugado?");
 }
  
  
