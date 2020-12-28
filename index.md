@@ -6,12 +6,6 @@
 <body>
 
 <table id="equipo">
-<tr>
-
-  <th>Jugador campo</th>
-  <th>Jugador banquillo</th>
-
-</tr>
 
   
     <script>
@@ -23,13 +17,21 @@
   var jugador2_partidos = prompt("Cuántas veces ha jugado?");
   
   if(jugador1_partidos>jugador2_partidos){
-      document.getElementById("equipo").innerHTML ="<tr><th>Jugador campo</th><th>Jugador banquillo</th></tr>"+"<td>"+jugador2+"</td>"; 
+      document.getElementById("equipo").innerHTML ="<td>"+jugador2+"</td>"; 
   } else{
       document.getElementById("equipo").innerHTML ="<td>"+jugador1+"</td>"; 
   }
   
 
   </script>
+  
+<tr>
+
+  <th>Jugador campo</th>
+  <th>Jugador banquillo</th>
+
+</tr>
+
 </table>
  
 
