@@ -18,11 +18,9 @@
  
  
   if(jugador1_partidos>jugador2_partidos){
-      document.getElementById("equipo").innerHTML = "<tr>"+"<th>Jugador campo</th>"+"</tr>";
-      document.getElementById("equipo").innerHTML ="<td>"+jugador2+"</td>"; 
+      document.getElementById("equipo").innerHTML ="<tr>"+"<th>Jugador campo</th>"+"</tr>"+"<tr>"+"<td>"+jugador2+"</td>"+"</tr>"; 
   } else{
-      document.getElementById("equipo").innerHTML = "<tr>"+"<th>Jugador campo</th>"+"</tr>";
-      document.getElementById("equipo").innerHTML ="<td>"+jugador1+"</td>"; 
+      document.getElementById("equipo").innerHTML ="<tr>"+"<th>Jugador campo</th>"+"</tr>"+"<tr>"+"<td>"+jugador1+"</td>"+"</tr>"; 
   }
 
   </script>
