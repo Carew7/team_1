@@ -5,16 +5,16 @@
 
 <body>
 
-
-  
-    <script>
-" <table id="equipo">
+<table id="equipo">
 <tr>
 
   <th>Jugador campo</th>
   <th>Jugador banquillo</th>
 
-</tr>"
+</tr>
+
+  
+    <script>
 
   var jugador1 = prompt ("Inserta jugador 1","jugador1");
   var jugador1_partidos = prompt("Cuántas veces ha jugado?");
@@ -28,9 +28,9 @@
       document.getElementById("equipo").innerHTML ="<td>"+jugador1+"</td>"; 
   }
   
-"</table>"
-  </script>
 
+  </script>
+</table>
  
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOE_9bEOm09uCWQ1869mcVtVKttCmfhV9adduXEB2GXcGXpkUUioH9YP53r_o71KQ8PsJasVpGpPXw/pubhtml?widget=true&amp;headers=false"></iframe>
