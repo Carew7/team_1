@@ -10,11 +10,11 @@
   
     <script>
 
-  var jugador1 = prompt ("Inserta jugador 1","jugador1");
-  var jugador1_partidos = prompt("Cuántas veces ha jugado?");
-  
-  var jugador2 = prompt ("Inserta jugador 2","jugador2");
-  var jugador2_partidos = prompt("Cuántas veces ha jugado?");
+for (var i = 1; i < 8; i++) {
+var jugador [i][= prompt ("Inserta jugador"[i],"jugador"[i]);
+var jugador[i]_partidos = prompt("Cuántas veces ha jugado?");
+}
+ 
  
  
   if(jugador1_partidos>jugador2_partidos){
