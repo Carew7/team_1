@@ -7,7 +7,7 @@
 
 <h1 align="center"><strong>Alineación titular</strong></h1>
 
-<table align="center" id="equipo" width="100" cellspacing="1" cellpadding="3" border="0">
+<table align="center" id="equipo" width="" cellspacing="1" cellpadding="3" border="1">
 
 
 <script type="text/javascript">
