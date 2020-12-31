@@ -3,8 +3,10 @@
 
 </head>
 
-<body style="background-color: coral;background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF73x8GmqEv2lO-tfKg-KrLkfXzwC-yq3A1A&usqp=CAU');background-repeat: no-repeat; background-size: cover;opacity: 0.7;">
-<h1 align="center">Alineación titular</h1>
+<body style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF73x8GmqEv2lO-tfKg-KrLkfXzwC-yq3A1A&usqp=CAU');background-repeat: no-repeat; background-size: cover;opacity: 0.7;">
+
+<h1 align="center"><strong>Alineación titular</strong></h1>
+
 <table align="center" id="equipo" width="100" cellspacing="1" cellpadding="3" border="0" bgcolor="#cc3300">
 
 
