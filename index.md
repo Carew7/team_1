@@ -7,8 +7,19 @@
 
 <h1 align="center"><strong>Alineación titular</strong></h1>
 
-<!--encabezado tabla y formato-->
+<!--boton que inicia la inserción de jugadores y sus partidos jugados-->
+<button class="button" onclick="miequipo()"> <strong> Inserta los jugadores y los partidos jugados</strong></button>
+<style>
+.button {
+  padding: 10px 20px;
+  text-align: center;
+  background-color: #008CBA;
+  font-size: 15px;
+  margin: 2px;
+}
+</style>
 
+<!--encabezado de tabla jugadores titulares y formato-->
 <table cellpadding="2" cellspacing="2" border="0" bgcolor="#dfdfdf" width="40%" align="center">
 <thead>
     <tr align="center">
@@ -22,6 +33,8 @@
 <!--empieza javascript-->
 
 <script type="text/javascript">
+
+function miequipo(){
 
 //declaració objecto de datos
 var jugadores = [
@@ -77,6 +90,7 @@ console.log (i);
 console.log (index_valor_mayor);
 console.log (quitar_maximos);
 
+}
 </script>
 
 <br><br>
